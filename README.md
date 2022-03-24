@@ -15,7 +15,7 @@ Email: max@cqls.oregonstate.edu, schmidtm@osuosl.org
 
 Comments are denoted inside hash-parenthesis `#( Like this! )`. 
 
-## 1. Hardware Configuration
+## 1. [Hardware Configuration](https://github.com/madmax-codewarrior-0/osu-forestry-rda-machine/wiki/BIOS-Settings)
 
 ## 2. BIOS Settings
 
