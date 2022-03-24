@@ -8,6 +8,7 @@ Maximillian Schmidt (he, his, him)
 Faculty Research Assistant - Computational Scientist
 Center for Quantitative Life Sciences (CQLS) & OSU Open Source Lab (OSL)
 Oregon State University
+(541) 737-9917
 https://cqls.oregonstate.edu  ~  https://osuosl.org
 ```
 
