@@ -1,5 +1,5 @@
 # osu-forestry-rda-machine
-A collection of notes, configs, and setup steps for the Forestry RDA machine. Provisioned and installed by Max for the College of Forestry.
+A collection of notes, configs, and setup steps for the Forestry RDA machine. Installed and configured by Max for the College of Forestry.
 
 Contact Info:
 
